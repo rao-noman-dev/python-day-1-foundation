@@ -128,6 +128,8 @@ Individual exercises were also tested with representative valid values and produ
 Verified commits:
 
 ```text
+76167e0 Complete Day 1 final documentation and LinkedIn proof
+36bdb5d Update Day 1 paths after roadmap reorganization
 c2a7c96 Add Day 1 documentation and handoff
 2ade931 Add Day 1 Python exercises and calculator
 ```
