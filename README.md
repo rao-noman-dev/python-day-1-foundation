@@ -17,12 +17,13 @@ A beginner-friendly Python project covering input/output, variables, data types,
 ## Project Structure
 
 ```text
-python-day-1/
-├── day_1_exercises.py
-├── calculator.py
-├── notes.md
-├── README.md
-└── DAY_1_HANDOFF.md
+python-backend-168-day-roadmap/
+└── python-day-1/
+    ├── day_1_exercises.py
+    ├── calculator.py
+    ├── notes.md
+    ├── README.md
+    └── DAY_1_HANDOFF.md
 ```
 
 ## Files
@@ -76,9 +77,21 @@ No external Python packages are required.
 
 ## How to Run
 
+Open PowerShell and move to the Day 1 project folder:
+
 ```powershell
-cd "C:\Users\User\Documents\python-day-1"
+Set-Location "C:\Users\User\Documents\python-backend-168-day-roadmap\python-day-1"
+```
+
+Run the Day 1 exercises:
+
+```powershell
 python .\day_1_exercises.py
+```
+
+Run the calculator mini project:
+
+```powershell
 python .\calculator.py
 ```
 
@@ -105,7 +118,7 @@ The exercises and calculator were tested with:
 
 ## Known Limitations
 
-### Division by zero
+### Division by Zero
 
 Entering `0` as the second calculator number can raise:
 
@@ -113,7 +126,7 @@ Entering `0` as the second calculator number can raise:
 ZeroDivisionError: float division by zero
 ```
 
-### Non-numeric input
+### Non-Numeric Input
 
 Entering text such as `five` can raise:
 
@@ -121,16 +134,22 @@ Entering text such as `five` can raise:
 ValueError
 ```
 
-### Floating-point precision
+### Floating-Point Precision
 
 Some float calculations may display extra decimal digits. This is normal behavior.
 
 ## Git History
 
-Initial code commit:
+The repository uses separate Git commits for major Day 1 milestones:
 
-```text
-2ade931 Add Day 1 Python exercises and calculator
+- Day 1 Python exercises and calculator
+- Day 1 documentation and handoff
+- Local roadmap-folder path updates
+
+To view the latest commit history, run:
+
+```powershell
+git log --oneline
 ```
 
 ## GitHub Repository
