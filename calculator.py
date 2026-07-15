@@ -1,4 +1,5 @@
 # Day 1 Mini Project: Simple Calculator
+# Date: 2026-07-15
 
 num_1 = float(input("Enter your first number: "))
 num_2 = float(input("Enter your second number: "))

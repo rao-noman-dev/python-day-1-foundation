@@ -137,3 +137,19 @@ Day 1 project ko local Git repository banaya gaya, first commit create ki gayi, 
 - Integer, decimal, negative, aur zero inputs test karna
 - Floating-point precision, division-by-zero, aur non-numeric input limitations samajhna
 - Git repository initialize, commit, remote connect, aur GitHub par push karna
+
+## Problems I Faced Today
+
+- Calculator mein addition ke liye galti se subtraction operator `-` use kar diya tha. Isay `+` se correct kiya.
+- Multiplication output mein spelling mistake thi, jise correct kiya.
+- Decimal calculations mein extra digits nazar aaye, jo Python floating-point precision ka normal behavior hai.
+- GitHub push ke waqt wrong cached account ki wajah se `403 Permission Denied` error aaya. Windows Credential Manager se old GitHub credentials remove karke correct account se authentication complete ki.
+- Project folder move karne ke baad `README.md` aur `DAY_1_HANDOFF.md` mein local paths update kiye.
+
+## Next-Day Preparation
+
+- Day 2 start karne se pehle `README.md`, `notes.md`, aur `DAY_1_HANDOFF.md` read karni hain.
+- Day 1 repository ka branch, working-tree status, commits, remote, aur GitHub synchronization verify karni hai.
+- Day 1 exercises aur calculator dobara rebuild nahi karne.
+- Sirf official Day 2 roadmap scope follow karna hai.
+- Day 2 ki documentation aur handoff files coding, testing, Git, GitHub, aur final verification ke baad end mein create karni hain.

@@ -156,6 +156,15 @@ git log --oneline
 
 https://github.com/rao-noman-dev/python-day-1-foundation
 
+## LinkedIn Progress Post
+
+A professional Day 1 progress update was published on LinkedIn after completing the coding, testing, documentation, Git, and GitHub workflow.
+
+View the post:
+
+https://www.linkedin.com/posts/rao-muhammad-noman-dev_python-pythondevelopment-backenddevelopment-share-7483119295908986881-t2SK/
+
+
 ## Learning Outcome
 
 After completing Day 1, I can take and convert user input, store values in variables, perform arithmetic calculations, build and test a small command-line calculator, identify basic runtime limitations, use Git for version control, and publish a repository on GitHub.
